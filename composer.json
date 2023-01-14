@@ -15,7 +15,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.4|^8",
-        "nova-kit/nova-packages-tool": "^1.3",
+        "elsayed85/nova-packages-tool": "^1.3",
         "ext-json": "*"
     },
     "require-dev": {
